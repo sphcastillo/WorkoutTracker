@@ -1,4 +1,23 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Workout Tracker
+
+Want to reach those fitness goals? This is the app for you!
+
+## Description
+
+A dynmatic workout tracking application that allows users to create and track their daily workouts. One will be able to design new workouts by adding exercises or continue adding to their last workout.
+
+## Installation Instructions
+
+The user needs to run npm and connect to MongoDB
+
+
+## Technologies Used
+
+HTML, CSS, BOOTSTRAP, JavaScript, Node.js, npm. Express, MongoDB, Mongoose, and morgan
+
+
+
+## Unit 17 Nosql Homework: Workout Tracker
 
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
