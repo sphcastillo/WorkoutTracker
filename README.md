@@ -16,4 +16,18 @@ The user needs to run npm and connect to MongoDB
 HTML, CSS, BOOTSTRAP, JavaScript, Node.js, npm. Express, MongoDB, Mongoose, Mongoose schema, morgan, and Heroku
 
 
+## Author:
 
+Author: Sophia Castillo,
+
+
+Email: Sphcastillo@gmail.com,
+
+
+GitHub: https://github.com/sphcastillo
+
+
+Heroku Deployed Site: https://infinite-inlet-18545.herokuapp.com/
+
+
+<img src="imgFolder/Screen Shot 2020-09-25 at 5.05.11 AM.png"/>
