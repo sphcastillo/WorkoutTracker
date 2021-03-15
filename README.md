@@ -24,7 +24,7 @@ Author: Sophia Castillo,
 Email: Sphcastillo@gmail.com,
 
 
-GitHub: https://github.com/sphcastillo
+GitHub: https://github.com/sphcastillo/WorkoutTracker
 
 
 Heroku Deployed Site: https://infinite-inlet-18545.herokuapp.com/
